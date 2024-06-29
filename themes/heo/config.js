@@ -23,9 +23,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://luxinfeng.top',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/技术分享' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/踩坑记录' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/学习笔记' },
+  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/Java开发' },
+  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/AIGC应用开发' },
+  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/工具' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
